@@ -30,6 +30,3 @@ artifacts:
 cache:
   paths:
     - '/root/.m2/**/*'
-
-has context menu
-Compose
