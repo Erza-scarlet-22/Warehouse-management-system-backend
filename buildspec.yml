@@ -12,7 +12,7 @@ phases:
     commands:
       - echo Pre-build phase started
       - echo Installing project dependencies
-      - mvn clean install -DskipTests
+      - mvn clean install -DskipTests -y
   build:
     commands:
       - echo Build phase started
